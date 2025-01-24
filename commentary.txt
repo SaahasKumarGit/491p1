@@ -1,0 +1,17 @@
+Important: Be sure to check this file into your <uniqname>.1doc
+repository!
+
+--------------------------------------------------
+
+Project 1 Commentary:
+
+1: List the purpose for each "type" of goroutine you create in your
+project.
+
+2: What actions cause the creation of a goroutine, and which type is
+created as a result?
+
+3: How do your goroutines communicate with one another?
+
+4: How do you gaurantee that all created goroutines terminte *before*
+ManagerImpl returns?
